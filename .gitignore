@@ -119,4 +119,4 @@ dist
 
 .vscode/launch.json
 .vscode/snipsnap.code-snippets
-.DS_Store
+*.DS_Store
